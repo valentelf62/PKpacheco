@@ -40,10 +40,11 @@ capitulo2/alteracao
 
 capitulo3/PKpacheco
 	1)#acionar ambiente virtual
-	2)capitulo1(3)
+	2)iniciar projeto
 		2.1)django-admin.py startproject PKproject
-		2.2)github (repositorio)
-			2.2.1)Criar vide (9)
+		(4)(nome do projeto)=PKproject
+		2.2)github PKproject
+			2.2.1)Criar vide (9) [repositorio=PKproject]
 			2.2.2)Atualizar
 				2.2.2.1)git add PKproject
 				2.2.2.2)git commit -m "first commit"
@@ -58,6 +59,10 @@ capitulo3/PKpacheco
 	5)cd ../..
 
 	(2.2.2)
+
+	cd PKproject
+
+
 
 	6)python3 manage.py startapp (cria o aplicativo)
 
